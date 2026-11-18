@@ -11,7 +11,7 @@
   GitHub and every copy of the model picks up the change the next time it loads.
 ]]
 
-BASE_URL = "https://raw.githubusercontent.com/Oliver-Sheaky/Custodes11thCodex/main/"
+BASE_URL = "https://raw.githubusercontent.com/blackziel/Custodes11thCodex/main/"
 
 TOKEN_SCALE       = 0.6    -- size of spawned tokens
 TOKEN_THICKNESS   = 0.02   -- thickness of the custom tile tokens (TTS minimum)
